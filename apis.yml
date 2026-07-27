@@ -1,8 +1,17 @@
 aid: fundamental-technologies
 name: Fundamental Technologies
-description: Fundamental Technologies is a company surfaced as a portfolio company of battery-ventures
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: >-
+  Fundamental Technologies Inc. (Fundamental) is an AI company building foundation
+  models for predictive decision-making across enterprises and governments. Its
+  flagship product, NEXUS, is a large tabular model pre-trained on billions of
+  real-world enterprise tables and designed to capture the complex, non-linear
+  feature interactions in structured data that large language models handle poorly.
+  NEXUS is positioned to be deployed "with just one line of code" with a deep AWS
+  integration and confidential-computing privacy controls. Founded by DeepMind
+  alumni and led by serial entrepreneurs, the company raised a $255M Series A in
+  February 2026 and is surfaced in the API Evangelist network as a Battery Ventures
+  portfolio company. As of this profile it publishes a marketing and research
+  presence at fundamental.tech but no public developer API, documentation, or SDKs.
 url: https://raw.githubusercontent.com/api-evangelist/fundamental-technologies/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,14 +19,55 @@ x-backed-by:
 - battery-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://framerusercontent.com/images/hzCqz89SHakS26kFwNsgLq33bE.png
 tags:
 - Company
+- Artificial Intelligence
+- Machine Learning
+- Predictive Analytics
+- Foundation Models
+- Tabular Data
+- Data Science
+- Enterprise
 apis: []
+common:
+- type: DomainSecurity
+  url: security/fundamental-technologies-domain-security.yml
+- type: LLMsTxt
+  url: llms/fundamental-technologies-llms.txt
+- type: Website
+  url: https://fundamental.tech
+- type: Blog
+  url: https://fundamental.tech/news
+- type: Support
+  url: https://fundamental.tech/contact
+- type: TermsOfService
+  url: https://fundamental.tech/terms-of-use
+- type: PrivacyPolicy
+  url: https://fundamental.tech/privacy-policy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/fundamentalhq
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,26 @@
+# Fundamental Technologies
+
+> Fundamental Technologies Inc. (Fundamental) is an AI company building foundation models for predictive decision-making across enterprises and governments. Its flagship product, NEXUS, is a large tabular model pre-trained on billions of real-world enterprise tables, designed to capture the complex non-linear feature interactions in structured data that large language models handle poorly. Founded by DeepMind alumni, the company raised a $255M Series A in February 2026. As of this profile, Fundamental publishes a marketing and research presence but no public developer API, documentation, or SDKs.
+
+## Company
+- [Website](https://fundamental.tech): Company home and NEXUS overview.
+- [NEXUS](https://fundamental.tech/nexus): The large tabular foundation model product.
+- [Data Science](https://fundamental.tech/data-science): Foundation model for data science teams.
+- [Research](https://fundamental.tech/research): Research-led development and publications.
+- [Company](https://fundamental.tech/company): About Fundamental.
+- [Careers](https://fundamental.tech/careers): Open roles.
+- [Contact](https://fundamental.tech/contact): Get in touch.
+
+## News
+- [News & Insights](https://fundamental.tech/news): Company news and insights blog.
+
+## Legal
+- [Terms & Conditions](https://fundamental.tech/terms-of-use)
+- [Privacy Policy](https://fundamental.tech/privacy-policy)
+
+## Social
+- [LinkedIn](https://www.linkedin.com/company/fundamentalhq)
+
+## Notes
+- No public API, developer portal, OpenAPI specification, or SDKs are published at this time.
+- Deployment is described as a deep AWS integration; programmatic access is arranged via direct contact.
