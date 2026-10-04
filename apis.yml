@@ -48,7 +48,7 @@ image: https://framerusercontent.com/images/hzCqz89SHakS26kFwNsgLq33bE.png
 tags:
 - Company
 - Artificial Intelligence
-- Machine-Learning
+- Machine Learning
 - Predictive Analytics
 - Foundation Models
 - Tabular Data
@@ -63,6 +63,7 @@ tags_raw:
 - Tabular Data
 - Data Science
 - Enterprise
+- Machine-Learning
 apis: []
 common:
 - type: Whitepaper
