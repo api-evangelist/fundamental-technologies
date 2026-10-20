@@ -19,3 +19,5 @@ edges:
   seller_name: Fundamental Technologies
   detected_by: sweep-cloud-marketplaces.py
   detected: '2026-10-19'
+source:
+- https://azuremarketplace.microsoft.com/
